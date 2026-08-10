@@ -37,8 +37,8 @@ gdscript/warnings/standalone_expression=0
 
 [display]
 
-window/stretch/mode="viewport"
-mouse_cursor/custom_image="uid://c3em6s5nanavp"
+window/stretch/mode="canvas_items"
+window/stretch/aspect="expand"
 
 [input]
 
